@@ -1,5 +1,5 @@
 
-<img width="1248" height="906" alt="Sales Performance   Growth Trends(2016-2019)" src="https://github.com/user-attachments/assets/efb4d1fc-b95a-47ba-8242-9d6453ad1405" />
+<img width="1079" height="610" alt="Sales Performance   Growth Trends (2016 - 2019)" src="https://github.com/user-attachments/assets/888a9154-2db1-4151-a23b-e36064ba1652" />
 
 
 ## Project Overview
