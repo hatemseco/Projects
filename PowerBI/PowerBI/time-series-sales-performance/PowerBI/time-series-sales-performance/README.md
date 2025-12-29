@@ -1,3 +1,7 @@
+
+<img width="1248" height="906" alt="Sales Performance   Growth Trends(2016-2019)" src="https://github.com/user-attachments/assets/efb4d1fc-b95a-47ba-8242-9d6453ad1405" />
+
+
 ## Project Overview
 This dashboard analyzes sales performance over time, highlighting revenue growth, profitability, and year-over-year (YoY) trends.
 
