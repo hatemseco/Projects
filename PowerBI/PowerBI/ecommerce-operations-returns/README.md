@@ -1,4 +1,4 @@
-![E-Commerce Operations & Returns Dashboard](screenshots/E-Commerce%20Operations%20%26%20Returns%20Dashboard.png)
+![E-Commerce Operations & Returns Dashboard](./screenshots/E-Commerce%20Operations%20%26%20Returns%20Dashboard.png)
 # E-Commerce Operations & Returns Dashboard
 
 
