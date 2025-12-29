@@ -1,6 +1,6 @@
 
 
-<img width="1079" height="608" alt="Profitability   Cost Optimization" src="https://github.com/user-attachments/assets/d10469d9-dee9-4e72-bfdf-fe18989513a7" />
+![Dashboard](screenshots/dashboard.png)
 
 
 # Profitability & Cost Optimization Dashboard
