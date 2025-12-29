@@ -1,4 +1,5 @@
-![E-Commerce Operations & Returns Dashboard](./screenshots/E-Commerce%20Operations%20%26%20Returns%20Dashboard.png)
+
+<img width="879" height="500" alt="E-Commerce Operations   Returns Dashboard  " src="https://github.com/user-attachments/assets/2eab4a96-6267-464e-a359-e6dfd3fc390f" />
 
 # E-Commerce Operations & Returns Dashboard
 
