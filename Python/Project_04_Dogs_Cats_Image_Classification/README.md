@@ -75,11 +75,4 @@ The project is actively under development, with models, experiments, and evaluat
 ---
 
 ## Project Files
-- Project summary PDF: `Dogs & cats Dataset.pdf`
-
----
-
-## Next Steps
-- Further model tuning and optimization
-- Additional experiments with network architectures
-- Improved evaluation and result analysis
+[Dogs & cats Dataset.pdf](https://github.com/user-attachments/files/24386179/Dogs.cats.Dataset.pdf)
