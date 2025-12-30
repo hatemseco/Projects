@@ -1,7 +1,10 @@
 # Dogs & Cats Image Classification 
 
 ## Overview
-This project focuses on building and evaluating machine learning and deep learning models to classify images of **dogs and cats**. The work explores both traditional machine learning baselines and convolutional neural networks to understand how different modeling approaches perform on image data.
+This project focuses on building and evaluating machine learning and deep learning models to classify images of 
+
+
+**dogs and cats**. The work explores both traditional machine learning baselines and convolutional neural networks to understand how different modeling approaches perform on image data.
 
 
 
@@ -74,3 +77,10 @@ This project focuses on building and evaluating machine learning and deep learni
 
 ## Project Files
 [Dogs & cats Dataset.pdf](https://github.com/user-attachments/files/24386179/Dogs.cats.Dataset.pdf)
+
+
+
+## Key Takeaways
+- Deep learning models significantly improve performance on image classification tasks compared to traditional approaches
+- Proper preprocessing and data handling are critical for model accuracy
+- Confusion matrices provide valuable insights beyond overall accuracy
