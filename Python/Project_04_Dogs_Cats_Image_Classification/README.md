@@ -3,9 +3,7 @@
 ## Overview
 This project focuses on building and evaluating machine learning and deep learning models to classify images of **dogs and cats**. The work explores both traditional machine learning baselines and convolutional neural networks to understand how different modeling approaches perform on image data.
 
-The project is actively under development, with models, experiments, and evaluation being refined.
 
----
 
 ## Dataset
 - Dogs & Cats image dataset
